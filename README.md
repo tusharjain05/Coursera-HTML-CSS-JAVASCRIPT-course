@@ -1,5 +1,5 @@
-# certificate
-(https://coursera.org/share/e3a12fb382e9b4683ae12f60523aab73)
+# Certificate
+![Course Completition Certiciate](https://coursera.org/share/e3a12fb382e9b4683ae12f60523aab73)
 
 # HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
