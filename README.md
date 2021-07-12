@@ -1,3 +1,6 @@
+#certificate
+https://coursera.org/share/e3a12fb382e9b4683ae12f60523aab73
+
 # HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
 This repository contains my solutions to the assignments of the Coursera course
